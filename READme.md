@@ -7,11 +7,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 There were a good number of steps needed to get this to run. I needan HTML, CSS and two Javascript files to get the result I wanted. I first started working on the HTML to establish the foundation for the webpage. The second thing I wanted to focus on was the the type of text I wanted to use on the webpge so I put in "link rel" with the desired text. Next I made a signnificant amount of div classes because I wanted the questions to come in order so the player has an idea of what to do. Then the last major thing was to link the Javascript files in the HTML. Next, I started the CSS and just connected everything in the HTML to the CSS to make it more appealing. The fun part was when I had to make the Javascript files, so I started with the script file first and I made "const" properties and connected them to the buttons on the page. I made sure the 'start' and 'exit' buttons had utilization capabilities along with the 'continue' and 'restart' button.Next I made a function to show questions when yo hit the 'next' button. And within that same function I could change whether or not if someone got a question right or wrong, what color would their answer be highlighted. I then focused my attention on the "questions.js" file and I made a my own custom questions with the 'let' property just to mess around.
 ## Usage
 In order to run this webpage, all you would have to do is follow the link and and click 'Start Quiz' then you will have to read the questions and then you can begin the 5 question quiz. Once you finish you are able to see your score.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    ```md
-![alt text](C:\Users\tvinc\OneDrive\Pictures\QuizPics.png)
-)
-    ```
+
 ## Credits
 I recieved some help from a BCS assistant one time just to figure out a small problem on connecting and lining my files together but I referenced multiple sites and youtube to complete this assignment.
 I referenced CodingNepal: https://www.youtube.com/watch?v=WUBhpSRS_fk&t=0s and Brian Design: https://www.youtube.com/watch?v=f4fB9Xg2JEY&t=1205s
